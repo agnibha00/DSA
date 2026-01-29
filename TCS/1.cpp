@@ -36,7 +36,7 @@ Output:
 #include <bits/stdc++.h>
 
 using namespace std;
-/*hi*/
+
 int main() {
     int n,c=0;
     cout << "Enter number of elements: ";
