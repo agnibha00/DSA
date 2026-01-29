@@ -34,7 +34,7 @@ Output:
 
 
 #include <bits/stdc++.h>
-/* this is a trial code*/
+
 using namespace std;
 
 int main() {
