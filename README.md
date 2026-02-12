@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agnibha00/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 ## Array
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/agnibha00/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/agnibha00/DSA/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
