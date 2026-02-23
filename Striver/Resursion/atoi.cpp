@@ -29,7 +29,7 @@ int main()
 
     while(i<s.size() && s[i]==' ') i++;
 
-    else if(s[i]=='-') {
+    if(s[i]=='-') {
         sign = -1;
         i++;
     }
