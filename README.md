@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/agnibha00/DSA/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/agnibha00/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0860-lemonade-change](https://github.com/agnibha00/DSA/tree/master/0860-lemonade-change) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/agnibha00/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
