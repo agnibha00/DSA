@@ -26,6 +26,6 @@ public:
             j++;
         }
 
-        nums1 = ans;    // Copy ans into nums1
+         nums1 = ans;
     }
 };
