@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/agnibha00/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/agnibha00/DSA/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/agnibha00/DSA/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agnibha00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agnibha00/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/agnibha00/DSA/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
