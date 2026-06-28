@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/agnibha00/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/agnibha00/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/agnibha00/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/agnibha00/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/agnibha00/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/agnibha00/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/agnibha00/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/agnibha00/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agnibha00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/agnibha00/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/agnibha00/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/agnibha00/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/agnibha00/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/agnibha00/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
