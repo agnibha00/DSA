@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/agnibha00/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/agnibha00/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/agnibha00/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/agnibha00/DSA/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/agnibha00/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agnibha00/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnibha00/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/agnibha00/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnibha00/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnibha00/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/agnibha00/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
