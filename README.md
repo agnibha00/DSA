@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/agnibha00/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/agnibha00/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/agnibha00/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/agnibha00/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/agnibha00/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/agnibha00/DSA/tree/master/0344-reverse-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agnibha00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/agnibha00/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/agnibha00/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/agnibha00/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/agnibha00/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agnibha00/DSA/tree/master/0088-merge-sorted-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agnibha00/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/agnibha00/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/agnibha00/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agnibha00/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/agnibha00/DSA/tree/master/0217-contains-duplicate) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnibha00/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/agnibha00/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/agnibha00/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnibha00/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnibha00/DSA/tree/master/0268-missing-number) |
