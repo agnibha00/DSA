@@ -10,7 +10,7 @@ public:
         unordered_map<int,int>mp;
         int r=1;
 
-        for(auto it:s){
+        for(int it:s){
             mp[it]=r;
             r++;
         }
