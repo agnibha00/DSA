@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/agnibha00/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/agnibha00/DSA/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/agnibha00/DSA/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/agnibha00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/agnibha00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/agnibha00/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/agnibha00/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/agnibha00/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/agnibha00/DSA/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/agnibha00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -145,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agnibha00/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/agnibha00/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/agnibha00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
